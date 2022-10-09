@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP and Laravel**
 
-- 👨‍💻 Some of my projects are available at [www.github.com/mk-elbaz](www.github.com/mk-elbaz)
+- 👨‍💻 Some of my projects are available at (www.github.com/mk-elbaz)
 
 - 📫 How to reach me **mk.elbaz9248@gmail.com**
 
