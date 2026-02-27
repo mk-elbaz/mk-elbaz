@@ -12,7 +12,7 @@ While much of my daily work involves hardening enterprise infrastructure and bui
 
 I build tools that solve actual engineering bottlenecks—from "review fatigue" to complex codebase onboarding and automated incident response.
 
-#### 🛡️ [CloudWatch AI Sentinel](https://github.com/mk-elbaz/CloudWatchSentinel)
+#### 🛡️ [CloudWatch AI Sentinel](https://github.com/mk-elbaz/CloudwatchSentinel)
 **AIOps & Infrastructure Observability**
 An intelligent AWS monitoring agent that automates the investigative phase of Site Reliability Engineering (SRE).
 * **Architecture:** Python, Boto3, MySQL, Streamlit, Docker.
@@ -24,13 +24,13 @@ A sophisticated RAG tool designed to help developers navigate complex GitLab rep
 * **Architecture:** Python, LangChain, Qdrant (Vector DB), Tree-sitter, Chainlit.
 * **Key Features:** Uses **AST-based chunking** (splitting code by functions/classes rather than arbitrary tokens), constructs Knowledge Graphs to map callers/callees, and features intelligent routing between models (GPT-4o for chat, o4-mini/o3 for deep reasoning).
 
-#### ⚡ [HybridRAG (RAGMaster)](https://github.com/mk-elbaz/ragmaster)
+#### ⚡ [HybridRAG (RAGMaster)](https://github.com/mk-elbaz/RAGMaster)
 **Production-Ready Hybrid Search RAG**
 A high-performance document retrieval system combining keyword precision with semantic understanding.
 * **Architecture:** Python, FAISS (Dense), BM25 (Sparse), Prometheus, Chainlit.
 * **Key Features:** Implements Alpha-tuned hybrid search fusion, semantic/hierarchical chunking strategies, and real-time observability via Prometheus metrics to monitor query latency and token costs. 
 
-#### 🐛 [AI Code Reviewer](https://github.com/mk-elbaz/ai-code-reviewer)
+#### 🐛 [AI Code Reviewer](https://github.com/mk-elbaz/AICodeReviewer)
 **Automated GitLab MR Analysis**
 A VS Code Extension acting as a first-line defense against bugs, style inconsistencies, and security flaws in Merge Requests.
 * **Architecture:** TypeScript, VS Code Extension API, Axios.
